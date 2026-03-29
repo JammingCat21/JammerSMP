@@ -56,3 +56,12 @@ Alternative to MMORPG. Some of these do not require /auraskills
 - /sellallhand
 - /sellgui
 - /shop
+
+## ProtectionStones
+- /ps add
+- /ps flag
+- /ps hide
+- /ps unhide
+- /ps info
+- /ps list
+- /ps remove
